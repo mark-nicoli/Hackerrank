@@ -1,2 +1,2 @@
 # Hackerrank
-Solutions to Hackerrank questions
+Solutions to Hackerrank questions.
